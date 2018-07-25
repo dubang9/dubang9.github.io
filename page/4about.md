@@ -10,7 +10,7 @@ type: page
 {:toc}
 
 ## 关于我
-<iframe src="https://www.baidu.com" style="border: 0;height: 142px;width: 600px;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 我是杜邦（ DP）南京邮电大学在读研究生
 
