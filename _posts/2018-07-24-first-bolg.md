@@ -4,6 +4,8 @@ categories: JavaScript
 tags: 
 author: DuPont
 
+* content
+{:toc}
 ##前言
 
 算是第一篇博客吧，搞了两天 终于搞定了，前段时间学习的git ，在搭建博客额时候也算联系了一遍，解决了一些可能遇到常遇到的问题，下面列举一下问题，供自己以后参考吧。
