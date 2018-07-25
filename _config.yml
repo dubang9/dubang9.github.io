@@ -39,9 +39,9 @@ baidu_tongji_id: fec07c7d3f4350a9e4bf9e60b1829828
 google_analytics_id: UA-72449510-4 # google 分析追踪id
 
 # Build settings
-markdown: Macdown
+markdown: kramdown
 
-Macdown:
+kramdown:
   input: GFM
   syntax_highlighter: rouge
 

@@ -1,14 +1,23 @@
+---
 layout: post
 title:  <!--"提升用户体验的前端动画"-->
 categories: JavaScript
 tags: 
 author: DuPont
-
+---
 * content
 {:toc}
+
+
+
+
 ##前言
 
 算是第一篇博客吧，搞了两天 终于搞定了，前段时间学习的git ，在搭建博客额时候也算联系了一遍，解决了一些可能遇到常遇到的问题，下面列举一下问题，供自己以后参考吧。
+
+
+
+
 
 ##问题1
 在本地的整个博客文件不能上传，原因：上传文件过大导致不能上传
@@ -19,17 +28,29 @@ author: DuPont
     postBuffer = 524288000     
     改变上传大小
     
+
+
+
+
 ##问题2
 
 githubdesktop不能跟remote 同步，因为通过本地push解决了，还没有找到原因，在改完.git里面的config文件后，desktop 弹出远端URL同步提醒  
 原因:怀疑是git里面的config里面的 URL不正确。
 
 ##问题3
+'''
+
+
 error: failed to push some refs to 'https://github.com/dubang9/dubang9.github.io.git'
 hint: Updates were rejected because the tip of your current branch is behind
 hint: its remote counterpart. Integrate the remote changes (e.g.
 hint: 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+'''
+
+
+
 
 原因：  本地跟remote未同步
 ####解决办法
