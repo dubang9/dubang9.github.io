@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  fist_blog
+title:  first_blog
 date:   2018-07-25
 categories: github
 tags: test 问题
