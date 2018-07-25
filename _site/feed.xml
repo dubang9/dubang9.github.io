@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Jul 2018 15:03:11 +0800</pubDate>
-    <lastBuildDate>Wed, 25 Jul 2018 15:03:11 +0800</lastBuildDate>
+    <pubDate>Wed, 25 Jul 2018 15:35:06 +0800</pubDate>
+    <lastBuildDate>Wed, 25 Jul 2018 15:35:06 +0800</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -27,21 +27,19 @@
       </item>
     
       <item>
-        <title>Test</title>
-        <description>layout:     post
-title:      开始扯淡
-subtitle:   终于搞定了个人blog
-date:       2018-07-23
-author:     BY
-header-img: img/post-bg-cook.jpg
-catalog: true
-tags:
-
+        <title>test</title>
+        <description>
 </description>
-        <pubDate>Mon, 23 Jul 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018/07/23/test/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/07/23/test/</guid>
+        <pubDate>Tue, 24 Jul 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/07/24/test/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/24/test/</guid>
         
+        <category>test</category>
+        
+        <category>问题</category>
+        
+        
+        <category>github</category>
         
       </item>
     
