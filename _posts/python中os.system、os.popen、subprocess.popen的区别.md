@@ -1,3 +1,15 @@
+---
+layout: post
+title:  笔记
+date:  2019-04-11
+categories: 学习
+tags: Python
+author: DuPont	
+---
+
+* content
+{:toc}
+
 # python中os.system、os.popen、subprocess.popen的区别
 
 
